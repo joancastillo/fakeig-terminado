@@ -1,0 +1,23 @@
+
+body{
+    background-color: black;
+    
+}
+
+.post{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    margin:auto;
+}
+
+.picture{
+    overflow: hidden;
+    background-color: red;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between; 
+}
+
